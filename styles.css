@@ -1,0 +1,28 @@
+h1 {
+    text-decoration: underline;
+  }
+  .title {
+    color: rgb(255, 140, 0);
+  }
+  .avatar {
+    width: 300px;
+  }
+  .title2 {
+    color: green;
+  }
+  .nav-list {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+  }
+  .nav-item {
+    color: black;
+    padding: 0 10px;
+  }
+  .nav-link {
+    color: black;
+  }
+  .nav-link:hover {
+    color: green;
+  }
+  
